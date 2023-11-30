@@ -1,4 +1,4 @@
-# a5-matplotlib
+#### a5-matplotlib
 - All solutions in main.ipynb
 
 # Pymaceuticals Inc.
